@@ -1,0 +1,17 @@
+h1
+{
+  font-size: 2.6em;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  font-weight: lighter;
+  line-height: 1.2;
+}
+.test
+{
+  width: 50%;
+}
+
+span
+{
+  font-size: 0.7em;
+}
